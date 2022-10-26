@@ -1,2 +1,2 @@
 # Vzlom-Jopy
-This is prank for your friends
+This file does not work
