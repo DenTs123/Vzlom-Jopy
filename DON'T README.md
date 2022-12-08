@@ -9,3 +9,5 @@ If you or your friend doesn't have Python the .exe file there
 The viruses that [Virus Total](https://t.me/VirusTotalAV_bot) detected:
 
 ![Screen of virus](Virus.png)
+
+But I think that is not all
