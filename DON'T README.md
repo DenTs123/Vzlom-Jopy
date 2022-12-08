@@ -6,4 +6,4 @@ If you or your friend doesn't have Python the .exe file there
 
 # ATTENTION!!! The archive contains real virus! Do not unpack it!!!
 
-![Screen of virus](Screen of virus.png)
+![Screen of virus](Virus.png)
